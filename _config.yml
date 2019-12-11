@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+title: "hi"
+description: "minimal?"
+
 defaults:
   - scope:
       path: ""
