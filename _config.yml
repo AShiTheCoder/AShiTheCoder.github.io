@@ -2,8 +2,7 @@ collections:
   authors:
     output: true
 
-title: "hi"
-description: "minimal?"
+permalink: /:categories/:year/:month/:day/:title
 
 defaults:
   - scope:
