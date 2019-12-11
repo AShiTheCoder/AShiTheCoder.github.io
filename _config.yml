@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 
-permalink: /:categories/:year/:month/:day/:title
+permalink: pretty
 
 defaults:
   - scope:
